@@ -20,4 +20,7 @@ To scan a specific script, use this command:
 ```
 shellcheck ./your_script.sh
 ```
+<img width="2594" height="1040" alt="image" src="https://github.com/user-attachments/assets/7735982b-e2d5-42d1-a2cd-3709ddf9b3d0" />
+
 If you use VS Code, there is also an official ShellCheck extension that will highlight your .sh files with squiggly lines in real-time as you type, just like a modern IDE.
+<img width="1806" height="894" alt="image" src="https://github.com/user-attachments/assets/12ff1d71-c3cb-435e-b9e9-693586bfb7a7" />
