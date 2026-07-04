@@ -1,5 +1,5 @@
 # :question: What is ShellCheck?
-ShellCheck is a static analysis tool that does exactly what PSScriptAnalyzer does, but for `sh`, `bash`, `dash`, and `ksh` scripts. 
+ShellCheck is a static analysis tool that does exactly what PSScriptAnalyzer does, but for `sh`, `bash`, `dash`, and `ksh` scripts. Check out: https://github.com/PoisonOakey/how-to-use-ps-script-analyzer.git
 
 Because shell scripting is notoriously forgiving—often running broken code and failing silently—ShellCheck acts as a critical safety net. It preemptively catches unquoted variables, syntax errors, unintended globbing, and dangerous edge cases before they can execute and damage a server or break a deployment pipeline.
 
